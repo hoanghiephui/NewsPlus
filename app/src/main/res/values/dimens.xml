@@ -22,4 +22,5 @@
     <dimen name="circle_view_check">24dp</dimen>
     <dimen name="toolbar_inset">72dp</dimen>
     <dimen name="toolbar_elevation">4dp</dimen>
+    <dimen name="top">10dp</dimen>
 </resources>
