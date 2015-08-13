@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <net.tichluy.ctinnhanh.utils.PreferenceCategorySetting
+        android:key="info_category"
+        android:title="Thông Tin">
+
+        <net.tichluy.ctinnhanh.utils.PreferenceSetting
+            android:key="about"
+            android:summary="Thông tin về ứng dụng, nhà phát hành..."
+            android:title="Đọc Tin Nhanh" />
+
+    </net.tichluy.ctinnhanh.utils.PreferenceCategorySetting>
+
+
+    <net.tichluy.ctinnhanh.utils.PreferenceCategorySetting
+        android:key="theme_category"
+        android:title="Cài đặt giao diện">
+
+        <CheckBoxPreference
+            android:key="dark_theme"
+            android:layout="@layout/preference_custom"
+            android:persistent="true"
+            android:summary="Thiết lập màu nền tối"
+            android:title="Chế độ màu nền tối"
+            android:widgetLayout="@layout/preference_dynamiccheckbox" />
+
+        <net.tichluy.ctinnhanh.utils.PreferenceSetting
+            android:key="primary_color"
+            android:summary="Thiết lập màu thanh Menu"
+            android:title="Màu thanh Menu" />
+
+        <net.tichluy.ctinnhanh.utils.PreferenceSetting
+            android:key="accent_color"
+            android:summary="Thiết lập màu tiêu đề nội dung"
+            android:title="Màu tiêu đề" />
+
+        <CheckBoxPreference
+            android:defaultValue="true"
+            android:key="colored_navbar"
+            android:layout="@layout/preference_custom"
+            android:persistent="true"
+            android:summary="Thiết lập màu thanh điều hướng"
+            android:title="Màu thanh Navigation"
+            android:widgetLayout="@layout/preference_dynamiccheckbox" />
+
+    </net.tichluy.ctinnhanh.utils.PreferenceCategorySetting>
+</PreferenceScreen>

@@ -1,0 +1,22 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/share"
+        app:actionProviderClass="android.support.v7.widget.ShareActionProvider"
+        android:title="Share"
+        app:showAsAction="ifRoom" />
+
+    <item
+        android:id="@+id/menu_weather"
+        android:icon="@mipmap/ic_calendar_text_white_24dp"
+        app:showAsAction="ifRoom"
+        android:title="Lịch"/>
+    <item android:id="@+id/about"
+        android:title="About"
+        app:showAsAction="ifRoom"
+        android:icon="@mipmap/ic_information_outline_white_24dp">
+
+    </item>
+
+</menu>

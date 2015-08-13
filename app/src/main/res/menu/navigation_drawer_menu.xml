@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:checkableBehavior="single">
+        <item
+            android:checked="true"
+            android:id="@+id/vnExpress"
+            android:icon="@mipmap/ic_action_cast"
+            android:title="@string/vnExpress" />
+        <item
+            android:id="@+id/dantri"
+            android:icon="@mipmap/ic_action_cast"
+            android:title="@string/dantri" />
+        <item
+            android:id="@+id/tiin"
+            android:icon="@mipmap/ic_action_cast"
+            android:title="@string/tiin" />
+        <item
+            android:id="@+id/kenh14"
+            android:icon="@mipmap/ic_action_cast"
+            android:title="@string/kenh14" />
+        <item
+            android:id="@+id/thethao247"
+            android:icon="@mipmap/ic_action_cast"
+            android:title="@string/thethao247" />
+        <item
+            android:id="@+id/afamily"
+            android:icon="@mipmap/ic_action_cast"
+            android:title="@string/afamily" />
+        <item
+            android:id="@+id/nguoiduatin"
+            android:icon="@mipmap/ic_action_cast"
+            android:title="@string/nguoiduatin" />
+        <item
+            android:id="@+id/doisong_phapluat"
+            android:icon="@mipmap/ic_action_cast"
+            android:title="@string/doisong_phapluat" />
+        <item
+            android:id="@+id/nguyentandung"
+            android:icon="@mipmap/ic_action_cast"
+            android:title="@string/nguyentandung" />
+        <item
+            android:id="@+id/thanhnien"
+            android:icon="@mipmap/ic_action_cast"
+            android:title="@string/thanhnien" />
+        <item
+            android:id="@+id/tienphong"
+            android:icon="@mipmap/ic_action_cast"
+            android:title="@string/tienphong" />
+        <item
+            android:id="@+id/petro"
+            android:icon="@mipmap/ic_action_cast"
+            android:title="@string/petro" />
+        <item
+            android:id="@+id/subheader"
+            android:title="@string/congnghe">
+            <menu>
+                <item
+                    android:id="@+id/tinhte"
+                    android:icon="@mipmap/ic_action_cast"
+                    android:title="@string/tinhte" />
+                <item
+                    android:id="@+id/vnreview"
+                    android:icon="@mipmap/ic_action_cast"
+                    android:title="@string/vnreview" />
+                <item
+                    android:id="@+id/droiviet"
+                    android:icon="@mipmap/ic_action_cast"
+                    android:title="@string/droiViet" />
+                <item
+                    android:id="@+id/sohoa"
+                    android:icon="@mipmap/ic_action_cast"
+                    android:title="@string/sohoa" />
+                <item
+                    android:id="@+id/hdviet"
+                    android:icon="@mipmap/ic_action_cast"
+                    android:title="@string/hdViet" />
+                <item
+                    android:id="@+id/ictnews"
+                    android:icon="@mipmap/ic_action_cast"
+                    android:title="@string/ict" />
+            </menu>
+        </item>
+
+        <!--<item
+            android:id="@+id/subSetiing"
+            android:title="Quản Lý">
+            <menu>
+                <item
+                    android:id="@+id/settings"
+                    android:icon="@mipmap/ic_action_cast"
+                    android:title="@string/action_settings"/>
+            </menu>
+        </item>-->
+    </group>
+</menu>

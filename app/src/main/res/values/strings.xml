@@ -1,0 +1,196 @@
+<resources>
+    <string name="app_name">Đọc Tin Nhanh</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="vnExpress">VnExpress</string>
+    <string name="dantri">Dân Trí</string>
+    <string name="kenh14">Kênh 14</string>
+    <string name="tinhte">Tinh Tế</string>
+    <string name="tiin">Tiin</string>
+    <string name="home_vn">Trang Chủ</string>
+    <string name="thoisu">Thời Sự</string>
+    <string name="doisong">Đời Sống</string>
+    <string name="thegioi">Thế Giới</string>
+    <string name="kinhdoanh">Kinh Doanh</string>
+    <string name="giaitri">Giải Trí</string>
+    <string name="thethao">Thể Thao</string>
+    <string name="phapluat">Pháp Luật</string>
+    <string name="dulich">Du Lịch</string>
+    <string name="khoahoc">Khoa Học</string>
+    <string name="sohoa">Số Hóa</string>
+    <string name="xe">Xe</string>
+    <string name="congdong">Cộng Đồng</string>
+    <string name="tamsu">Tâm Sự</string>
+    <string name="cuoi">Cười</string>
+    <string name="tonghop">+ Tổng hợp</string>
+    <string name="congnghe">+ Công nghệ</string>
+    <string name="vnreview">VnReview</string>
+    <string name="doisong_phapluat">Đời sống Pháp Luật</string>
+    <string name="hdViet">HD ViệtNam</string>
+    <string name="cnetHome">CNET Home</string>
+    <string name="cnetReview">CNET Reviews</string>
+    <string name="cnetIphone">CNET Iphone Update</string>
+    <string name="cnetAndroid">CNET Android Update</string>
+    <string name="thethao247">Thể thao 247</string>
+    <string name="droiViet">DroidViet</string>
+    <string name="afamily">Afamily VN</string>
+    <string name="nguoiduatin">Người Đưa Tin</string>
+    <string name="antv">Truyền Hình An Ninh</string>
+    <string name="add">Cập nhật</string>
+    <string name="search">Search</string>
+    <string name="about">About</string>
+    <string name="thoitiet">Thời Tiết</string>
+
+    <string name="important">Important</string>
+    <string name="documents">Documents</string>
+
+    <!-- Toast -->
+    <string name="open_user_profile">Open user profile</string>
+    <string name="open_settings">Open settings</string>
+
+    <string name="drawer_open">Open drawer navigation</string>
+    <string name="drawer_close">Navigation drawer Close</string>
+
+    <string-array name="titles">
+        <item >Welcome to PrivateFolder, First step, choose your file or files to make private</item>
+        <item >Second step, push the private button</item>
+        <item >Great! Now this files are private and only you will can open them</item>
+    </string-array>
+
+    <string name="banner_ad_unit_id">ca-app-pub-2257698129050878/1793685140</string>
+    <string name="banner_ad_unit_id_views">ca-app-pub-2257698129050878/7561017149</string>
+    <string name="banner_weather">ca-app-pub-2257698129050878/8983371147</string>
+    <string name="banner_weatherCurrent">ca-app-pub-2257698129050878/5750703148</string>
+    <string name="progress_dialog">Progress Dialog</string>
+    <string name="please_wait">Please wait…</string>
+    <string name="done">Done!</string>
+    <string name="abouts">
+        <![CDATA[Đọc Tin Nhanh - News+: Là một ứng dụng cho người dùng đọc tin từ các website tin tức trực tuyến tại Việt Nam, thông qua cập nhật RSS.
+ Ứng dụng được thiết kế theo giao diện phẳng Material Design trên nền tảng Android 5.0 Lollipop mới nhất.
+ Ứng dụng hiển thị mượn mà, không tốn tài nguyên máy.
+ Cho phép đọc các tin từ các trang VnExpress, Dân Trí, Kênh 14, Tiin.vn, Tinh Tế, VnReview, Đời sống pháp luật, Thể thao 247, HD Việt Nam, CNET... ]]>
+    </string>
+
+    <string-array name="lang_names">
+        <item>English</item>
+        <item>Ngôn ngữ máy</item>
+    </string-array>
+    <string-array name="lang_values">
+        <item>en</item>
+        <item>system</item>
+    </string-array>
+
+    <string-array name="unit_names">
+        <item>Celsius (Metric system)</item>
+        <item>Fahrenheit (Imperial system)</item>
+    </string-array>
+    <string-array name="unit_values">
+        <item>c</item>
+        <item>f</item>
+    </string-array>
+
+    <string name="pref_unit_title">Đơn vị đo lường</string>
+    <string name="temp_title">Đơn vị nhiệt</string>
+    <string name="loc_title">Location</string>
+    <string name="pref_location_title">Choose the location</string>
+    <string name="lang_title">Weather message language</string>
+    <string name="summary_lang">Ngôn ngữ hiện tại</string>
+    <string name="pref_lang_title">Select language</string>
+    <string name="summary_loc">Vị trí hiện tại</string>
+    <string name="summary_temp">Đơn vị nhiệt độ hiện tại</string>
+    <string name="provider">data provided by Openweathermap</string>
+    <string name="title_activity_view_page">ViewPage</string>
+
+    <!--dân trí-->
+    <string name="dtrangchu">Trang Chủ</string>
+    <string name="dxahoi">Xã Hội</string>
+    <string name="dthegioi">Thế Giới</string>
+    <string name="dgiaoduc">Giáo Dục</string>
+    <string name="dkinhdoanh">Kinh Doanh</string>
+    <string name="dgiaitri">Giải Trí</string>
+    <string name="dphapluat">Pháp Luật</string>
+    <string name="dsuckhoe">Sức Khỏe</string>
+    <string name="dxe">Xe</string>
+    <string name="dsucmanhso">Sức Mạnh Số</string>
+
+    <!--tiin-->
+    <string name="tiinhome">Home</string>
+    <string name="tinsao">Sao</string>
+    <string name="tiindep">Đẹp</string>
+    <string name="tiinyeu">Yêu</string>
+
+    <!--kenh14-->
+    <string name="khome">Home.</string>
+    <string name="star">Star</string>
+    <string name="fashion">Fashion</string>
+    <string name="cine">Ciné</string>
+    <string name="tvshow">TV Show</string>
+    <string name="kthegioi">Thế Giới.</string>
+    <string name="skgt">Sức Khỏe Giới Tính</string>
+    <string name="made">Made By Me</string>
+    <string name="tek">2-Tek</string>
+
+    <!--người đưa tin-->
+    <string name="tinnhat">Trang Nhất</string>
+    <string name="nthoisu">Tin Thời Sự</string>
+    <string name="nphapluat">Tin Pháp Luật</string>
+    <string name="ndoisong">Tin Đời Sống</string>
+    <string name="nthegioi">Tin Thế Giới</string>
+
+    <!--đời sống pháp luật-->
+    <string name="plhome">Tin Nhất</string>
+    <string name="plpl">Pháp Luật Đời Sống</string>
+    <string name="plthegioi">Thế Giới Đời Sống</string>
+    <string name="plthethao">Thể Thao Đời Sống</string>
+    <string name="pldiaphuong">Địa Phương</string>
+    <string name="antvs">An Ninh TV</string>
+
+    <string name="nguyentandung">Nguyễn Tấn Dũng</string>
+
+    <string name="thanhnien">Thanh Niên</string>
+    <string name="tinnhatTN">Trang Chủ TN</string>
+    <string name="chinhtriTN">Chính Trị</string>
+    <string name="quocphong">Quốc Phòng</string>
+    <string name="kinhteTN">Kinh Tế TN</string>
+    <string name="thegioiTN">Thế Giới TN</string>
+    <string name="game">Game</string>
+    <string name="suckhoeTN">Sức Khỏe TN</string>
+
+    <string name="tienphong">Báo Tiền Phong</string>
+    <string name="xahoiTP">Xã Hội TP</string>
+    <string name="kinhteTP">Kinh Tế TP</string>
+    <string name="thegioiTP">Thế Giới TP</string>
+    <string name="gioitre">Giới Trẻ</string>
+    <string name="phapluatTP">Pháp Luật TP</string>
+    <string name="giaitriTP">Giải Trí TP</string>
+    <string name="khoahocTp">Khoa Học TP</string>
+    <string name="nguoilinh">Người Lính</string>
+
+    <string name="petro">Petrotimes</string>
+    <string name="ict">ICT News</string>
+    <string name="vienthong">Viễn Thông</string>
+    <string name="internet">Internet</string>
+    <string name="cntt">CNTT</string>
+    <string name="ictKinhDoanh">Kinh Doanh ICT</string>
+    <string name="thegioiso">Thế Giới Số</string>
+    <string name="gameICT">Game ICT</string>
+    <string name="khoinghiep">Khởi Nghiệp</string>
+    <string name="congnghe360">Công Nghệ 360</string>
+
+    <string name="primary_color">Màu thanh Menu</string>
+    <string name="macdinh">Mặc định</string>
+    <string name="chon">Chọn</string>
+
+    <string name="danhgia">Đánh Giá</string>
+    <string name="tintuc">Tin Tức</string>
+    <string name="tuvan">Tư Vấn</string>
+    <string name="gocnhin">Góc Nhìn</string>
+    <string name="hoidap">Hỏi Đáp</string>
+    <string name="about_description_1">App Developer</string>
+    <string name="about_description_2">Icon Designer</string>
+    <string name="action_about">Giới Thiệu</string>
+    <string name="settings_googleplay">Đánh giá trên Google Play</string>
+    <string name="app_description">Là một ứng dụng cho người dùng đọc tin từ các website tin tức trực tuyến tại Việt Nam.</string>
+    <string name="googleplus">Tham gia vào cộng đồng trên Google+</string>
+</resources>
